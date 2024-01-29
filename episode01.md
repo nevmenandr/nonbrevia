@@ -13,6 +13,8 @@ layout: default
 <dd>Mave, Яндекс.Музыка</dd>
 <dt>Видео</dt>
 <dd>YouTube</dd>
+<dt>Дата</dt>
+<dd>30 января 2024</dd>
 </dl>
 
 ## Транскрипт

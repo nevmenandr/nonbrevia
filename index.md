@@ -27,6 +27,6 @@ layout: default
 
 ### Лого
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![NS](photos/logo.jpg)
 
 
