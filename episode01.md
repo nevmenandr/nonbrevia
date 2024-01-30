@@ -10,9 +10,9 @@ layout: default
 <dt>Эпизод</dt>
 <dd>01</dd>
 <dt>Аудио</dt>
-<dd>Mave, Яндекс.Музыка</dd>
+<dd>[Mave](https://nonbrevia.mave.digital/ep-2), [Яндекс.Музыка](https://music.yandex.ru/album/28385653/track/121848377), [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D1%82%D1%8E%D1%82%D1%87%D0%B5%D0%B2-%D0%B8-%D1%84%D0%B5%D1%82-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D1%85-%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2/id1718619044?i=1000643478127), [Zvuk](https://zvuk.com/episode/136422809)</dd>
 <dt>Видео</dt>
-<dd>YouTube</dd>
+<dd>[YouTube](https://www.youtube.com/watch?v=4MiSxGjzEog), [RuTube](https://rutube.ru/video/5e6e7985438096c6ae4cbd9bfb579383/), [VK](https://vk.com/video-222396379_456239022), [Dzen](https://dzen.ru/video/watch/65b8ae8ac1bfe77332065013)</dd>
 <dt>Дата</dt>
 <dd>30 января 2024</dd>
 </dl>

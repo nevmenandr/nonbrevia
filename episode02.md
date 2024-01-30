@@ -10,9 +10,9 @@ layout: default
 <dt>Эпизод</dt>
 <dd>02</dd>
 <dt>Аудио</dt>
-<dd>Mave, Яндекс.Музыка</dd>
+<dd>[Mave](https://nonbrevia.mave.digital/ep-3)</dd>
 <dt>Видео</dt>
-<dd>YouTube</dd>
+<dd>[YouTube](https://www.youtube.com/watch?v=VGA2RVgEn8I), [RuTube](https://rutube.ru/video/9c49912e2f1c57eaa2f8672ac11bc3a7/), [VK](https://vk.com/video-222396379_456239023)</dd>
 <dt>Дата</dt>
 <dd>6 февраля 2024</dd>
 </dl>
