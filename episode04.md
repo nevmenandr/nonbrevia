@@ -10,9 +10,9 @@ layout: default
 <dt>Эпизод</dt>
 <dd>04</dd>
 <dt>Аудио</dt>
-<dd>[Mave](https://nonbrevia.mave.digital/ep-5)</dd>
+<dd><a href="https://nonbrevia.mave.digital/ep-5">Mave</a></dd>
 <dt>Видео</dt>
-<dd>[YouTube](https://www.youtube.com/watch?v=KF3wCo-WvMk), [RuTube](https://rutube.ru/video/515bd13374c1d7bf855524b1ae66e304/), [VK](https://vk.com/video-222396379_456239025)</dd>
+<dd><a href="https://www.youtube.com/watch?v=KF3wCo-WvMk">YouTube</a>, <a href="https://rutube.ru/video/515bd13374c1d7bf855524b1ae66e304/">RuTube</a>, <a href="https://vk.com/video-222396379_456239025"></dd>
 <dt>Дата</dt>
 <dd>20 февраля 2024</dd>
 </dl>
