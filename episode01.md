@@ -17,7 +17,7 @@ layout: default
 <dd>30 января 2024</dd>
 </dl>
 
-![](./photo/mortal.jpg)
+![](./photos/mortal.jpg)
 
 ## Транскрипт
 
