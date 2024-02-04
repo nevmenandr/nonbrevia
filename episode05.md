@@ -12,7 +12,7 @@ layout: default
 <dt>Аудио</dt>
 <dd><a href="https://nonbrevia.mave.digital/ep-6">Mave</a></dd>
 <dt>Видео</dt>
-<dd><a href="">YouTube</a>, <a href="">RuTube</a>, <a href=""></dd>
+<dd><a href="">YouTube</a>, <a href="">RuTube</a>, <a href="">VK</a></dd>
 <dt>Дата</dt>
 <dd>28 февраля 2024</dd>
 </dl>
