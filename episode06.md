@@ -24,6 +24,7 @@ layout: default
 ## Ссылки
 
 * [Песня Ростислава Чебыкина](https://www.youtube.com/watch?v=3bQOmCbtnkE)
+* [Статья-эксперимент, где литературоведа проверяют на вчитывание смысла](https://nm1925.ru/articles/2018/201806/galvanizatsiya-avtora-ili-eksperiment-s-neyronnoy-poeziey-6935/)
 
 
 ------
