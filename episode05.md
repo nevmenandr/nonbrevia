@@ -14,7 +14,7 @@ layout: default
 <dt>Видео</dt>
 <dd><a href="">YouTube</a>, <a href="">RuTube</a>, <a href="">VK</a></dd>
 <dt>Дата</dt>
-<dd>28 февраля 2024</dd>
+<dd>27 февраля 2024</dd>
 </dl>
 
 ## Транскрипт 
