@@ -84,4 +84,6 @@ layout: default
 * [О переводах Набокова](http://nevmenandr.net/personalia/nabokov_transl.pdf)
 * [Цитата из Набокова в «Хищных вещах века» Стругацких](http://nevmenandr.net/nazirov/journal/2020_3_cite.pdf)
 
+-----
+
   [На главную](./index.html)
