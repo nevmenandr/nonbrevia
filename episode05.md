@@ -12,7 +12,7 @@ layout: default
 <dt>Аудио</dt>
 <dd><a href="https://nonbrevia.mave.digital/ep-6">Mave</a></dd>
 <dt>Видео</dt>
-<dd><a href="">YouTube</a>, <a href="">RuTube</a>, <a href="">VK</a></dd>
+<dd><a href="https://youtu.be/25PQdk6vFrs">YouTube</a>, <a href="https://rutube.ru/video/400ff644d74a95fa5ec1ce91108e8025/">RuTube</a>, <a href="https://vk.com/video-222396379_456239028">VK</a>, <a href="https://dzen.ru/video/watch/65c56c635ea0e7737d572d9f">Дзен</a></dd>
 <dt>Дата</dt>
 <dd>27 февраля 2024</dd>
 </dl>
