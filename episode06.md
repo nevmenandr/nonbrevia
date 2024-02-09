@@ -4,7 +4,7 @@ layout: default
 
 # Автор ничего не хотел сказать
 
-[На главную](./index.html)
+[На главную](./)
 
 <dl>
 <dt>Эпизод</dt>
@@ -12,7 +12,7 @@ layout: default
 <dt>Аудио</dt>
 <dd><a href="https://nonbrevia.mave.digital/ep-7">Mave</a></dd>
 <dt>Видео</dt>
-<dd><a href="">YouTube</a>, <a href="">RuTube</a>, <a href="">VK</a></dd>
+<dd><a href="https://youtu.be/0pLRHsdtFVY">YouTube</a>, <a href="https://rutube.ru/video/aa1053e92116f402f81314be28f140c7/">RuTube</a>, <a href="https://vk.com/video-222396379_456239029">VK</a>, <a href="https://dzen.ru/video/watch/65c56d39db1fd65e328bbde8">Дзен</a></dd>
 <dt>Дата</dt>
 <dd>5 марта 2024</dd>
 </dl>
