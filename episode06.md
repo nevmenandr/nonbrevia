@@ -10,7 +10,7 @@ layout: default
 <dt>Эпизод</dt>
 <dd>06</dd>
 <dt>Аудио</dt>
-<dd><a href="https://nonbrevia.mave.digital/ep-7">Mave</a></dd>
+<dd><a href="https://nonbrevia.mave.digital/ep-7">Mave</a>, <a href="https://music.yandex.ru/album/28385653/track/123404400">Яндекс.Музыка</a>, <a href="https://podcasts.apple.com/ru/podcast/%D0%B0%D0%B2%D1%82%D0%BE%D1%80-%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B5-%D1%85%D0%BE%D1%82%D0%B5%D0%BB-%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C/id1718619044?i=1000648032782">Apple Podcasts</a>, <a href="https://zvuk.com/episode/136868177">Zvuk</a></dd>
 <dt>Видео</dt>
 <dd><a href="https://youtu.be/0pLRHsdtFVY">YouTube</a>, <a href="https://rutube.ru/video/aa1053e92116f402f81314be28f140c7/">RuTube</a>, <a href="https://vk.com/video-222396379_456239029">VK</a>, <a href="https://dzen.ru/video/watch/65c56d39db1fd65e328bbde8">Дзен</a></dd>
 <dt>Дата</dt>
