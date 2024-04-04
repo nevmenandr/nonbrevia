@@ -24,6 +24,8 @@ layout: default
 
 [Первые 50 постов](./tg-01.html).
 
+[Последние 40 постов](./tg-02.html).
+
 ## Авторы проекта
 
 [Борис Орехов](https://nevmenandr.github.io/).
