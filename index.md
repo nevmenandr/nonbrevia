@@ -26,6 +26,20 @@ layout: default
 
 [Последние 40 постов](./tg-02.html).
 
+## Shorts
+
+* [Кому нужен Гомер?](https://www.youtube.com/shorts/_y34fi7x76A)
+* [Стихи Тютчева и современников](https://www.youtube.com/shorts/UxnlHN4shKA)
+* [Природа в стихах Тютчева и Фета](https://www.youtube.com/shorts/LLdMhBrTASY)
+* [Саша Черный и мёд](https://www.youtube.com/shorts/0P_b-LKhwHs)
+* [Тютчев и немецкий романтизм](https://www.youtube.com/shorts/qYHAyf7tDQM)
+* [Неизмеримость в стихах Тютчева](https://www.youtube.com/shorts/ceFQHBTeI6c)
+* [Состарились ли Тютчев и Фет](https://www.youtube.com/shorts/MPYBShNYZno)
+* [Видение Тютчева](https://www.youtube.com/shorts/3sMYnQnCuf0)
+* [Тютчев и Новалис](https://www.youtube.com/shorts/BF6njF2-530)
+* [Влияние Тютчева и Фета](https://www.youtube.com/shorts/JqEgbodQyq4)
+
+
 ## Авторы проекта
 
 [Борис Орехов](https://nevmenandr.github.io/).
