@@ -24,6 +24,7 @@ layout: default
 ## Ссылки
 
 * [Статья о том, почему все романы Пелевина написаны одним автором, и почему это не компьютер](https://knife.media/club/pelevin-existence/)
+* [Фильм «Сквозь снег»](https://www.kinopoisk.ru/film/566283/)
 
 
 ------
