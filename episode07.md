@@ -12,7 +12,7 @@ layout: default
 <dt>Аудио</dt>
 <dd><a href="https://nonbrevia.mave.digital/ep-8">Mave</a></dd>
 <dt>Видео</dt>
-<dd><a href="https://youtu.be/D53VIeoQRCQ">YouTube</a>, <a href="https://rutube.ru/video/private/3c68b987253e924172f741c5324080cd/?p=Ia0kKK1oKCs6OLhqNTmtxw">RuTube</a>, <a href="https://vk.com/video-222396379_456239032">VK</a></dd>
+<dd><a href="https://youtu.be/D53VIeoQRCQ">YouTube</a>, <a href="https://rutube.ru/video/3c68b987253e924172f741c5324080cd/">RuTube</a>, <a href="https://vk.com/video-222396379_456239032">VK</a></dd>
 <dt>Дата</dt>
 <dd>27 июня 2024</dd>
 </dl>
