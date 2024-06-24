@@ -12,7 +12,7 @@ layout: default
 <dt>Аудио</dt>
 <dd><a href="https://nonbrevia.mave.digital/ep-11">Mave</a></dd>
 <dt>Видео</dt>
-<dd><a href="">YouTube</a>, <a href="">RuTube</a>, <a href="">VK</a></dd>
+<dd><a href="https://youtu.be/9i4GaM7aOHg">YouTube</a>, <a href="https://rutube.ru/video/private/5fc3d84e8235d20ac211911e6aca8c99/?p=K_bBRZza9QuVU78kJ4IuCg">RuTube</a>, <a href="https://vk.com/video-222396379_456239035">VK</a></dd>
 <dt>Дата</dt>
 <dd>18 июля 2024</dd>
 </dl>
