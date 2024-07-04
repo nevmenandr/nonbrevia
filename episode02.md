@@ -17,6 +17,8 @@ layout: default
 <dd>6 февраля 2024</dd>
 </dl>
 
+<iframe src="https://player.mave.digital?podcast=nonbrevia&episode=3&color=rgb(95,128,245)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
+
 ## Транскрипт
 
 Ни слова о полку Игореве! В чем феномен этого текста? Ему больше 800 лет, но он по-прежнему актуален. Об этом сегодня и поговорим.
