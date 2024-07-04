@@ -19,6 +19,8 @@ layout: default
 
 ![](./photos/mortal.jpg)
 
+<iframe src="https://player.mave.digital?podcast=nonbrevia&episode=2&color=rgb(95,128,245)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
+
 ## Транскрипт
 
 Тютчев и Фет. Они всегда вместе. Как [Ежи и Петруччо](https://www.youtube.com/watch?v=JtC8HfIA-AM). Поэтому этот эпизод подкаста и называется «разделение сиамских близнецов». 
