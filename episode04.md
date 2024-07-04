@@ -17,6 +17,8 @@ layout: default
 <dd>20 февраля 2024</dd>
 </dl>
 
+<iframe src="https://player.mave.digital?podcast=nonbrevia&episode=5&color=rgb(95,128,245)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
+
 ## Транскрипт
 
 «Илиада» и «Одиссея», которые мы называем поэмами Гомера, созданы невесть когда, а записаны во второй половине VI в. до нашей эры. Две с половиной тысячи лет назад. Кому и зачем они нужны в эпоху нейросетей, дронов, электрокаров и спутниковой связи?
