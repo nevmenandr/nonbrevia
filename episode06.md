@@ -17,6 +17,8 @@ layout: default
 <dd>5 марта 2024</dd>
 </dl>
 
+<iframe src="https://player.mave.digital?podcast=nonbrevia&episode=7&color=rgb(95,128,245)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
+
 ## Транскрипт
 
 Название этого эпизода отсылает к песне Ростислава Чебыкина. Песня шутливая, а вопрос серьезный. «Что хотел сказать автор?» — мучительные попытки ответить на него часто единственное, что остается от уроков литературы. 
