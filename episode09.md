@@ -10,7 +10,7 @@ layout: default
 <dt>Эпизод</dt>
 <dd>09</dd>
 <dt>Аудио</dt>
-<dd><a href="https://nonbrevia.mave.digital/ep-10">Mave</a>, <a href="https://podcasts.apple.com/ru/podcast/%D1%87%D1%82%D0%BE-%D0%BD%D0%B5-%D1%82%D0%B0%D0%BA-%D1%81-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%BC%D0%B8-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8/id1718619044?i=1000661839005">Apple podcasts</a></dd>
+<dd><a href="https://nonbrevia.mave.digital/ep-10">Mave</a>, <a href="https://podcasts.apple.com/ru/podcast/%D1%87%D1%82%D0%BE-%D0%BD%D0%B5-%D1%82%D0%B0%D0%BA-%D1%81-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%BC%D0%B8-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8/id1718619044?i=1000661839005">Apple podcasts</a>, <a href="https://music.yandex.ru/album/28385653/track/128539047">Яндекс.Музыка</a></dd>
 <dt>Видео</dt>
 <dd><a href="https://youtu.be/UfN4l80t2FQ">YouTube</a>, <a href="https://rutube.ru/video/dced6803303966b168d2d4271c4eef79/">RuTube</a>, <a href="https://vk.com/video-222396379_456239034">VK</a></dd>
 <dt>Дата</dt>
