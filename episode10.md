@@ -10,7 +10,7 @@ layout: default
 <dt>Эпизод</dt>
 <dd>10</dd>
 <dt>Аудио</dt>
-<dd><a href="https://nonbrevia.mave.digital/ep-11">Mave</a>, <a href="https://podcasts.apple.com/ru/podcast/%D0%B8%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2/id1718619044?i=1000662569593">Apple podcasts</a></dd>
+<dd><a href="https://nonbrevia.mave.digital/ep-11">Mave</a>, <a href="https://podcasts.apple.com/ru/podcast/%D0%B8%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2/id1718619044?i=1000662569593">Apple podcasts</a>, <a href="https://music.yandex.ru/album/28385653/track/128848544">Яндекс.Музыка</a></dd>
 <dt>Видео</dt>
 <dd><a href="https://youtu.be/9i4GaM7aOHg">YouTube</a>, <a href="https://rutube.ru/video/5fc3d84e8235d20ac211911e6aca8c99/">RuTube</a>, <a href="https://vk.com/video-222396379_456239035">VK</a></dd>
 <dt>Дата</dt>
